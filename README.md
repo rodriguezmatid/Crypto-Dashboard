@@ -7,7 +7,7 @@
 
 A dashboard where you can see the price of Bitcoin in the main exchanges. These are:
 1 - Binance
-2 - FTX
+2 - FTX \n
 3 - KuCoin
 4 - BitStamp
 5 - BitFinex
