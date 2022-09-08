@@ -1,7 +1,6 @@
 ![Project banner with text: "A Twitter bot that prevents crypto related scams"](img/project-header.png "A Twitter bot that prevents crypto related scams")
 
 <div align="center">
-<img src="https://img.shields.io/twitter/follow/antifraudbot?style=social" />
 <img src="https://img.shields.io/github/stars/rodriguezmatid/crypto-dashboard?style=social" />
 </div>
 
