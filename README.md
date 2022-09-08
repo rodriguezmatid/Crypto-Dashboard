@@ -6,14 +6,13 @@
 </div>
 
 A dashboard where you can see the price of Bitcoin in the main exchanges. These are:
-
-1 - Binance
-- 2 - FTX
-- 3 - KuCoin
-4 - BitStamp
-5 - BitFinex
-6 - Kraken
-7 - Coinbase
+- Binance
+- FTX
+- KuCoin
+- BitStamp
+- BitFinex
+- Kraken
+- Coinbase
 
 Built using Gspread, Python, Telegram, Telebot, and each exchange API.
 
