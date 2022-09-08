@@ -1,4 +1,3 @@
-# crypto-dashboard
 ![Project banner with text: "A Twitter bot that prevents crypto related scams"](img/project-header.png "A Twitter bot that prevents crypto related scams")
 
 <div align="center">
@@ -6,12 +5,19 @@
 <img src="https://img.shields.io/github/stars/rodriguezmatid/crypto-dashboard?style=social" />
 </div>
 
-A Twitter bot that helps to prevent Metamask phishing related scams.
+A dashboard where you can see the price of Bitcoin in the main exchanges. These are:
+1 - Binance
+2 - FTX
+3 - KuCoin
+4 - BitStamp
+5 - BitFinex
+6 - Kraken
+7 - Coinbase
 
-Built using Tweepy, Python and the Twitter API.
+Built using Gspread, Python, Telegram, Telebot, and each exchange API.
 
 ## How does it work? ❔
-Anti Fraud bot will reply to any tweet containing the word "Metamask" with a warn message about phishing attacks and mention the official Metamask support account.
+First, you have the price for each BTC pair in each exchange, and then this prices are pasted in a google sheet in order to be able to use in a webpage, or a dashboard.
 
 ## Authors 👦
 
