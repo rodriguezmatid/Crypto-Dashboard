@@ -1,4 +1,4 @@
-![Project banner with text: "A Twitter bot that prevents crypto related scams"](img/project-header.png "A Twitter bot that prevents crypto related scams")
+![Project banner with text: "BTC Dashboard"](img/header.png)
 
 <div align="center">
 <img src="https://img.shields.io/github/stars/rodriguezmatid/crypto-dashboard?style=social" />
@@ -19,7 +19,6 @@ Built using Gspread, Python, Telegram, Telebot, and each exchange API.
 First, you have the price for each BTC pair in each exchange, and then this prices are pasted in a google sheet in order to be able to use in a webpage, or a dashboard.
 
 ## Authors 👦
-
 - Matias Rodriguez ([@rodriguezmatid](https://twitter.com/rodriguezmatid))
 
 ## Contributing ✅
